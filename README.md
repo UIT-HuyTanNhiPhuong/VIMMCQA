@@ -11,9 +11,9 @@ For more details, please refer to our accompanying [paper](#) (*if available*).
 The **VIMMCQA** dataset consists of **10,601 question-answer pairs**, each supported by **annotated evidence**. It is designed to help train and evaluate models in medical NLP tasks requiring **domain-specific knowledge**.
 
 The dataset is structured as follows:
-- **Training Set:** [Number] samples (**[Ratio]%**)
-- **Development Set:** [Number] samples (**[Ratio]%**)
-- **Test Set:** [Number] samples (**[Ratio]%**)
+- **Training Set:** 9020 samples 
+- **Development Set:** 799 samples 
+- **Test Set:** 800 samples 
 
 Additionally, **VIMMCQA** includes a **comprehensive Vietnamese medical corpus** with:
 - **8,153** expert-verified medical articles.
