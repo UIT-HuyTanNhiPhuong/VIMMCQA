@@ -117,6 +117,9 @@ The **VIMMCQA** dataset is released under the **[Creative Commons Attribution-No
 - **❌ Commercial Use:** Not permitted.
 - **🔄 Modifications:** Any derived datasets should be shared under the same license.
 
+## **Availability** 
+The supplementary material will be made publicly available upon acceptance.
+
 ---
 
 ## **Contact**
